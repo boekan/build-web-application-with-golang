@@ -10,4 +10,5 @@ This book is a summary of my Go experience, some content are from other Gophers'
 6. [Go Programming Language](http://golang.org/doc/)
 7. [Network programming with Go](http://jan.newmarch.name/go/)
 8. [setup-the-rails-application-for-internationalization](http://guides.rubyonrails.org/i18n.html#setup-the-rails-application-for-internationalization)
-9. [The Cross-Site Scripting (XSS) FAQ](http://www.cgisecurity.com/xss-faq.html)
+9. [The Cross-Site Scripting \(XSS\) FAQ](http://www.cgisecurity.com/xss-faq.html)
+
